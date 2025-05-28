@@ -73,8 +73,8 @@ You also need:
 
 ## 📷 Screenshots
 
-![Dark Mode Example](screenshot_dark.png)
-![Light Mode Example](screenshot_light.png)
+![Dark Mode Example]([[Dark_Theme.png]([url](https://drive.google.com/file/d/1Sxl6snvdh4mSrCwTzcvo2HtCdNiMOXck/view?usp=sharing))]
+![Light Mode Example]([Light_Theme.png](https://drive.google.com/file/d/1pN0lGOp7SqtByP416LYjWm_vs_6vuRGN/view?usp=sharing))
 
 ---
 
